@@ -12,10 +12,6 @@ I'm deeply interested in the intersection of technology and society, and how Mac
 
 I'm always looking to collaborate on interesting projects, especially those that can make a positive impact on society. If you're working on something that could use my skills, don't hesitate to reach out. I'm particularly interested in projects related to Machine Learning, Data Science, and Software Development.
 
-## 📫 How to Reach Me
-
-You can reach me via email at veelwater@example.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/veelwater/). I'm always open to new opportunities, collaborations, or just a friendly chat about tech.
-
 ## 🚀 Skills and Experience
 
 - **Languages**: Python, R, Java, C++, Go, Rust
